@@ -41,6 +41,15 @@
 *.VC.db
 *.VC.opendb
 
+# Assets
+Content/LevelPrototyping/*
+Content/Megascans/*
+Content/MSPresets/*
+Content/MWLandscapeAutoMaterial/*
+Content/PN_OpenWorldFoliage/*
+Content/StarterContent/*
+Content/STF/*
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
