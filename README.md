@@ -11,12 +11,12 @@ cd My_first_game_on_UE
 
 2. Download the necessary assets
 Some resources are not stored in the repository. Download them at the link:
-https://drive.google.com/drive/folders/1Bx2xDPtljxR6EKQpzl-jdhuYnzo6m8AU?usp=sharing
+https://drive.google.com/file/d/1JqqHmH8LRXLQnextFBKvSJxlv5dG9y69/view?usp=sharing
 
-3. Place the downloaded files
+4. Place the downloaded files
 Move the contents of the Assets folder to the appropriate directories in Content/.
 
-4. Open the project in Unreal Engine 5
+5. Open the project in Unreal Engine 5
 Open the .uproject file and run the editor.
 
 🛠 Technology
